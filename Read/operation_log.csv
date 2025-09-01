@@ -1,0 +1,2 @@
+timestamp,operation,result,record_count
+2025-09-01 23:43:33,SELECT_ALL_EMPLOYEES,Failure,0
